@@ -1,0 +1,26 @@
+{
+  "name": "zuzu",
+  "description": "A clean theme implementing all awesome stuff to build professional Drupal websites.",
+  "main": "",
+  "authors": [
+    "Madalin Ignisca <madalin.ignisca@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "drupal",
+    "drupal-theme"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "breakpoint-sass": "^2.7.0",
+    "zen-grids": "^2.0.2"
+  }
+}

@@ -1,0 +1,13 @@
+name: Zuzu
+type: theme
+description: A clean theme implementing all awesome stuff to build professional Drupal websites.
+package: Zuzu extensions
+version: 8.0.1
+core: 8.x
+base theme: classy
+hidden: false
+
+libraries:
+  - core/modernizr
+  - core/normalize
+  - zuzu/global-styling
