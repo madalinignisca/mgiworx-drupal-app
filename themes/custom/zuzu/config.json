@@ -1,7 +1,7 @@
 {
   "name": "zuzu",
   "description": "A clean theme implementing all awesome stuff to build professional Drupal websites.",
-  "browserSyncProxy" : "http://127.0.0.1:8088",
+  "browserSyncProxy" : "http://127.0.0.1:8888",
   "drush": {
     "src": [
       "templates/**/*",
